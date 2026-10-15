@@ -797,4 +797,3 @@ if __name__ == '__main__':
     except Exception as error:
         messagebox.showerror('SwimCast', str(error), parent=root)
         root.destroy()
-
