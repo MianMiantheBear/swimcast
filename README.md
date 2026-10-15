@@ -77,4 +77,3 @@ SwimCast currently runs from an extracted folder and is not registered under Win
 Transfer verification proves file identity, not device playback. RSS duration is advisory. The app does not detect listened episodes or delete them automatically.
 
 Do not publish personal RSS URLs, history, logs, original or processed audio, or FFmpeg binaries. `.gitignore` excludes these. The sample configuration contains no personal data. Error logs may contain subscription tokens and should stay local.
-
