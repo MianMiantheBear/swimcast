@@ -20,4 +20,3 @@ exit /b 1
 echo SwimCast could not start. Check the Python environment above.
 pause
 exit /b 1
-
