@@ -546,4 +546,3 @@ def transfer_audio(source, destination, mode='copy', control=None, replace=False
         Path(source).unlink()
         return 'moved'
     return outcome
-
