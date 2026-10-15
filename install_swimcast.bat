@@ -60,4 +60,3 @@ echo Package installation into SwimCast's private environment failed.
 echo Check the messages above and try again.
 pause
 exit /b 1
-
