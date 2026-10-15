@@ -1,0 +1,11 @@
+{
+  "podcasts": [
+    {
+      "name": "Example Podcast",
+      "rss": "https://example.com/podcast.rss",
+      "speed": 1.5,
+      "episodes": 2
+    }
+  ]
+}
+
